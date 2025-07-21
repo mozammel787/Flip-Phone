@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "PhoneSwipe",
+  "version": "2.1.0",
   "private": true,
   "dependencies": {
     "@stripe/react-stripe-js": "^1.15.0",
