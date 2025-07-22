@@ -2,7 +2,7 @@
 
 This project was built using **Create React App**, **Tailwind CSS**, **DaisyUI**, and **Mamba UI**.
 
----
+
 
 ## 📱 Description
 
@@ -24,7 +24,7 @@ This project was built using **Create React App**, **Tailwind CSS**, **DaisyUI**
 - Notifications via React Hot Toast
 - Icons using React Icons
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -45,7 +45,6 @@ TanStack Query (React Query), Moment.js
 - **Frontend**: Firebase Hosting
 - **Backend**: Vercel
 
----
 
 ## 🌐 Live Demo
 
@@ -54,7 +53,7 @@ TanStack Query (React Query), Moment.js
 **Server App**:  
 🔗 [https://resell-one.vercel.app/](https://resell-one.vercel.app/)
 
----
+
 
 ## 📂 Source Code
 
@@ -64,7 +63,7 @@ TanStack Query (React Query), Moment.js
 **Server Repo**:  
 📁 [https://github.com/mozammel787/Flip-Phone-server](https://github.com/mozammel787/Flip-Phone-server)
 
----
+
 
 ## 🧰 NPM Package List
 
