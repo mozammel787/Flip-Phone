@@ -48,10 +48,8 @@ TanStack Query (React Query), Moment.js
 
 ## 🌐 Live Demo
 
-**Client App**:  
-🔗 [https://flip-mobile-235f9.web.app/](https://phone-swiper.vercel.app/)
-**Server App**:  
-🔗 [https://resell-one.vercel.app/](https://resell-one.vercel.app/)
+**Client App**: 🔗 [https://flip-mobile-235f9.web.app/](https://phone-swiper.vercel.app/)
+**Server App**:  🔗 [https://resell-one.vercel.app/](https://resell-one.vercel.app/)
 
 
 
