@@ -50,8 +50,7 @@ TanStack Query (React Query), Moment.js
 ## 🌐 Live Demo
 
 **Client App**:  
-🔗 [https://flip-mobile-235f9.web.app/](https://flip-mobile-235f9.web.app/)
-
+🔗 [https://flip-mobile-235f9.web.app/](https://phone-swiper.vercel.app/)
 **Server App**:  
 🔗 [https://resell-one.vercel.app/](https://resell-one.vercel.app/)
 
@@ -72,22 +71,22 @@ TanStack Query (React Query), Moment.js
 ```json
 {
   "@stripe/react-stripe-js": "^1.15.0",
-  "@stripe/stripe-js": "^1.44.1",
-  "@tanstack/react-query": "^4.16.1",
-  "@testing-library/jest-dom": "^5.16.5",
-  "@testing-library/react": "^13.4.0",
-  "@testing-library/user-event": "^13.5.0",
-  "axios": "^1.2.0",
-  "daisyui": "^2.41.0",
-  "firebase": "^9.14.0",
-  "moment": "^2.29.4",
-  "react": "^18.2.0",
-  "react-dom": "^18.2.0",
-  "react-hook-form": "^7.39.5",
-  "react-hot-toast": "^2.4.0",
-  "react-icons": "^4.6.0",
-  "react-router-dom": "^6.4.3",
-  "react-scripts": "5.0.1",
-  "web-vitals": "^2.1.4"
+    "@stripe/stripe-js": "^1.44.1",
+    "@tanstack/react-query": "^4.16.1",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.2.0",
+    "daisyui": "^2.41.0",
+    "firebase": "^9.14.0",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.39.5",
+    "react-hot-toast": "^2.4.0",
+    "react-icons": "^4.6.0",
+    "react-router-dom": "^6.4.3",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
 }
 ```
